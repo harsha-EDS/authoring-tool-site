@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/test/:/",
-    "/content/test/configuration:/.helix/config.json",
-    "/content/test/metadata:/metadata.json"
+    "/content/authoring-tool-site/:/",
+    "/content/authoring-tool-site/configuration:/.helix/config.json",
+    "/content/authoring-tool-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/test/"
+    "/content/authoring-tool-site/"
   ]
 }
